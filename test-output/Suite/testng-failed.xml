@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="comSauceDemoTestClasses.TC003AddToCartFuctinality">
+        <methods>
+          <include name="quit"/>
+          <include name="tearDownMethod"/>
+          <include name="Addtocart"/>
+          <include name="SetUpMethod"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- comSauceDemoTestClasses.TC003AddToCartFuctinality -->
+      <class name="comSauceDemoTestClasses.TC002LogoutFunctinality">
+        <methods>
+          <include name="quit"/>
+          <include name="tearDownMethod"/>
+          <include name="SetUpMethod"/>
+          <include name="homepagelogout"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- comSauceDemoTestClasses.TC002LogoutFunctinality -->
+      <class name="comSauceDemoTestClasses.TCO05CheckoutFunctinality">
+        <methods>
+          <include name="quit"/>
+          <include name="checkout"/>
+          <include name="tearDownMethod"/>
+          <include name="SetUpMethod"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- comSauceDemoTestClasses.TCO05CheckoutFunctinality -->
+      <class name="comSauceDemoTestClasses.TC001LoginFunctionality">
+        <methods>
+          <include name="quit"/>
+          <include name="tearDownMethod"/>
+          <include name="Verifylogin"/>
+          <include name="SetUpMethod"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- comSauceDemoTestClasses.TC001LoginFunctionality -->
+      <class name="comSauceDemoTestClasses.TC004YourInformationFunctinality">
+        <methods>
+          <include name="quit"/>
+          <include name="tearDownMethod"/>
+          <include name="information"/>
+          <include name="SetUpMethod"/>
+          <include name="BrowserOpen"/>
+        </methods>
+      </class> <!-- comSauceDemoTestClasses.TC004YourInformationFunctinality -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

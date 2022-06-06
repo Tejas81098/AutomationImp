@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  parallel ="classes" thread-count="4" name="Test">
+    <classes>
+      <class name="comSauceDemoTestClasses.TCO05CheckoutFunctinality"/>
+     
+      <class name="comSauceDemoTestClasses.TC002LogoutFunctinality"/>
+      <class name="comSauceDemoTestClasses.TC004YourInformationFunctinality"/>
+      <class name="comSauceDemoTestClasses.TC001LoginFunctionality"/>
+      <class name="comSauceDemoTestClasses.TC003AddToCartFuctinality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
