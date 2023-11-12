@@ -2,64 +2,64 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-13T13:53:25 IST" name="Default suite" finished-at="2022-05-13T13:54:56 IST" duration-ms="91029">
+  <suite started-at="2022-07-23T15:51:59 IST" name="Default suite" finished-at="2022-07-23T15:53:23 IST" duration-ms="84036">
     <groups>
     </groups>
-    <test started-at="2022-05-13T13:53:25 IST" name="Default test" finished-at="2022-05-13T13:54:56 IST" duration-ms="91029">
+    <test started-at="2022-07-23T15:51:59 IST" name="Default test" finished-at="2022-07-23T15:53:23 IST" duration-ms="84036">
       <class name="comSauceDemoTestClasses.BaseClass2">
-        <test-method is-config="true" signature="BrowserOpen()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:25 IST" name="BrowserOpen" finished-at="2022-05-13T13:53:37 IST" duration-ms="11544" status="PASS">
+        <test-method is-config="true" signature="BrowserOpen()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:51:59 IST" name="BrowserOpen" finished-at="2022-07-23T15:52:04 IST" duration-ms="4718" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserOpen -->
-        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:37 IST" name="SetUpMethod" finished-at="2022-05-13T13:53:39 IST" duration-ms="2091" status="PASS">
+        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:04 IST" name="SetUpMethod" finished-at="2022-07-23T15:52:06 IST" duration-ms="1951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpMethod -->
-        <test-method signature="Verifylogin()[pri:1, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:39 IST" name="Verifylogin" finished-at="2022-05-13T13:53:39 IST" duration-ms="79" status="PASS">
+        <test-method signature="Verifylogin()[pri:1, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:06 IST" name="Verifylogin" finished-at="2022-07-23T15:52:06 IST" duration-ms="45" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifylogin -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:39 IST" name="tearDownMethod" finished-at="2022-05-13T13:53:48 IST" duration-ms="8340" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:06 IST" name="tearDownMethod" finished-at="2022-07-23T15:52:14 IST" duration-ms="8390" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:48 IST" name="SetUpMethod" finished-at="2022-05-13T13:53:48 IST" duration-ms="684" status="PASS">
+        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:14 IST" name="SetUpMethod" finished-at="2022-07-23T15:52:15 IST" duration-ms="802" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpMethod -->
-        <test-method signature="Addtocart()[pri:2, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:48 IST" name="Addtocart" finished-at="2022-05-13T13:53:57 IST" duration-ms="8530" status="PASS">
+        <test-method signature="Addtocart()[pri:2, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:15 IST" name="Addtocart" finished-at="2022-07-23T15:52:24 IST" duration-ms="8501" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addtocart -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:53:57 IST" name="tearDownMethod" finished-at="2022-05-13T13:54:05 IST" duration-ms="8307" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:24 IST" name="tearDownMethod" finished-at="2022-07-23T15:52:32 IST" duration-ms="8388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:05 IST" name="SetUpMethod" finished-at="2022-05-13T13:54:06 IST" duration-ms="622" status="PASS">
+        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:32 IST" name="SetUpMethod" finished-at="2022-07-23T15:52:33 IST" duration-ms="681" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpMethod -->
-        <test-method signature="information()[pri:3, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:06 IST" name="information" finished-at="2022-05-13T13:54:21 IST" duration-ms="15345" status="PASS">
+        <test-method signature="information()[pri:3, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:33 IST" name="information" finished-at="2022-07-23T15:52:48 IST" duration-ms="15277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- information -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:21 IST" name="tearDownMethod" finished-at="2022-05-13T13:54:29 IST" duration-ms="8316" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:48 IST" name="tearDownMethod" finished-at="2022-07-23T15:52:56 IST" duration-ms="8423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:29 IST" name="SetUpMethod" finished-at="2022-05-13T13:54:30 IST" duration-ms="737" status="PASS">
+        <test-method is-config="true" signature="SetUpMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:56 IST" name="SetUpMethod" finished-at="2022-07-23T15:52:57 IST" duration-ms="620" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpMethod -->
-        <test-method signature="checkout()[pri:4, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:30 IST" name="checkout" finished-at="2022-05-13T13:54:48 IST" duration-ms="17458" status="PASS">
+        <test-method signature="checkout()[pri:4, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:52:57 IST" name="checkout" finished-at="2022-07-23T15:53:14 IST" duration-ms="17274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkout -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:48 IST" name="tearDownMethod" finished-at="2022-05-13T13:54:56 IST" duration-ms="8365" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:53:14 IST" name="tearDownMethod" finished-at="2022-07-23T15:53:23 IST" duration-ms="8375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-05-13T13:54:56 IST" name="quit" finished-at="2022-05-13T13:54:56 IST" duration-ms="464" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:comSauceDemoTestClasses.BaseClass2@36916eb0]" started-at="2022-07-23T15:53:23 IST" name="quit" finished-at="2022-07-23T15:53:23 IST" duration-ms="453" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
